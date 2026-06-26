@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Game2D.Core/Game2D.Core.csproj" />
+    <Project Path="src/Game2D.Library/Game2D.Library.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Game2D.Tests/Game2D.Tests.csproj" />
+  </Folder>
+  <Folder Name="/tools/">
+    <Project Path="tools/GenerateSprites/GenerateSprites.csproj" />
+  </Folder>
+</Solution>

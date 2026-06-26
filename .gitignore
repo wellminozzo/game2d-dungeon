@@ -1,0 +1,30 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+*.userprefs
+
+## MonoGame Content Pipeline
+**/Content/bin/
+**/Content/obj/
+
+## IDE
+.vs/
+.vscode/
+.idea/
+*.swp
+*~
+
+## NuGet
+packages/
+*.nupkg
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Build artifacts
+**/bin/
+**/obj/
